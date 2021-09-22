@@ -1,0 +1,16 @@
+{
+    "name": "rady/solid",
+    "description": "solid principles in php",
+    "autoload": {
+        "psr-4": {
+            "Rady\\Solid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmedhaggg",
+            "email": "ahmedhaggagrady@gmail.com"
+        }
+    ],
+    "require": {}
+}
